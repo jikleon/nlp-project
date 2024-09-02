@@ -4,7 +4,7 @@ This is the modified repository for ACL'2022 paper [Ditch the Gold Standard: Re-
 In this modified repository, we have added our implementation of new baselines - **Regenerate Question Evaluation** (Auto-Regeneration) and the script for calculating word-level F1 scores.
 
 **Prerequisites**
-We use quantize llama2-7b-chat to run the Auto-Regeneration. Thus, you are required to generate the .guff file by using [**llama.cpp**](https://github.com/ggerganov/llama.cpp). You may try another Language Model.
+We use quantized llama2-7b-chat to run the Auto-Regeneration. Thus, you are required to generate the .guff file by using [**llama.cpp**](https://github.com/ggerganov/llama.cpp). You may try another Language Model.
 
 **New Dependencies for Running Auto-Regeneration**
 ```
